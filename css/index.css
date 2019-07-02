@@ -52,7 +52,7 @@ nav a:before {
   content: '';
   display: block;
   height: 5px;
-  background-color: #ec84e7;
+  background-color: purple;
   position: absolute;
   top: 0;
   width: 0%;
